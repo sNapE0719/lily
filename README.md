@@ -1,2 +1,5 @@
 # lily
-dsh-superagent work repository
+
+helo from the lily repository.
+
+This repository is used to exercise dsh-superagent end to end.
